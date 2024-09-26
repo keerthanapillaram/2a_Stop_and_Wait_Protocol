@@ -10,8 +10,8 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 ```
-DEVELOPED BY: Guttha Keerthana
-REG : 212223240045
+DEVELOPED BY: P Keerthana
+REG : 212223240069
 ```
 ## ClIENT:
 ```

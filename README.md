@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## Name : Keerthana P 
+## Register number : 212223240069
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
